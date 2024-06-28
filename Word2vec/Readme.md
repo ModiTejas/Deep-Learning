@@ -1,5 +1,3 @@
-Here's an updated version of the README with the additional details:
-
 ---
 
 # 📱 Word2Vec Analysis of Amazon Cell Accessories Reviews 📊
