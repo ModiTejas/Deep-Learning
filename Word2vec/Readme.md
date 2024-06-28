@@ -56,6 +56,9 @@ Check out the notebook to see how Word2Vec helps in understanding customer senti
 
 We welcome contributions! Feel free to open issues or submit pull requests.
 
+## 📄 License
+
+This project is licensed under the MIT License.
 
 ---
 
